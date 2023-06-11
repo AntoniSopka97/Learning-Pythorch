@@ -19,6 +19,9 @@ __pycache__/
 # Dataset
 /Dataset
 /Models
+/pytorch-deep-learning
+/going_modular
+
 
 # Distribution / packaging
 .Python
