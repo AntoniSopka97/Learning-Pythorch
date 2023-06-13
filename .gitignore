@@ -21,7 +21,8 @@ __pycache__/
 /Models
 /pytorch-deep-learning
 /going_modular
-
+/demos
+/demos_big
 
 # Distribution / packaging
 .Python
